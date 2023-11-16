@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ9", "DZ9\DZ9.csproj", "{73A2EFA1-156A-4123-941E-FF54F93693CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TumakovLab10", "TumakovLab10\TumakovLab10.csproj", "{F875D3AD-EF3A-498A-93B8-44619F81D40D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A2EFA1-156A-4123-941E-FF54F93693CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A2EFA1-156A-4123-941E-FF54F93693CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A2EFA1-156A-4123-941E-FF54F93693CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A2EFA1-156A-4123-941E-FF54F93693CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F875D3AD-EF3A-498A-93B8-44619F81D40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F875D3AD-EF3A-498A-93B8-44619F81D40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F875D3AD-EF3A-498A-93B8-44619F81D40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F875D3AD-EF3A-498A-93B8-44619F81D40D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {097F8530-634E-478A-AD40-E6691D3D9EE5}
+	EndGlobalSection
+EndGlobal
